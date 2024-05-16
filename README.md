@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nixonomunga
 - 👀 I’m interested in Data Science & Software Engineering
-- 🌱 I’m currently learning Software Engineering ALX course
+- 🌱 I’m currently learning Data Science at Montclair State University
 - 💞️ I’m looking to collaborate on projects that will help me grow
 - 📫 How to reach me... nixonomunga@gmail.com
 
